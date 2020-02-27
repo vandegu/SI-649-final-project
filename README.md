@@ -1,7 +1,7 @@
 # SI-649-final-project
 A repo of code for the SI 549 final project, including EDA.
 
-### Files and descriptions from the data repository:
+### Files and descriptions from the data repository (you can get the data repo [here](https://drive.google.com/drive/folders/1y7pH1qMRDwj-DrJkfSdeD9foiygzJj_y?usp=sharing)):
 
 ##### steam.csv:
   Main file. Contains lots of information, organized by video game title.
