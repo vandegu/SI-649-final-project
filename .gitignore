@@ -1,0 +1,6 @@
+# Don't commit the data to Github; too large.
+# Keep the data file locally in the following directory: SI-649-final-project/data
+data/*
+
+# Remove annoying MacOS files.
+.DS_Store
