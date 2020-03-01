@@ -1,6 +1,17 @@
 # SI-649-final-project
 A repo of code for the SI 549 final project, including EDA.
 
+### Cleaned files included:
+
+##### steam_wide.csv:
+Contains the number of users as an integer (average of the range given in data/steam.csv; see below).
+Also merged the text descriptions of each game into this file for any desired text mining. One row
+per game.
+
+##### steam_long.csv:
+Contains separate entries for each genre of a game, so that each game with multiple genres
+has multiple rows.
+
 ### Files and descriptions from the data repository (you can get the data repo [here](https://drive.google.com/drive/folders/1y7pH1qMRDwj-DrJkfSdeD9foiygzJj_y?usp=sharing)):
 
 ##### steam.csv:
